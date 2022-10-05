@@ -1,2 +1,3 @@
-# Metagenomica
-Projeto de Metagenomica do grupo de pesquisa
+# Protótipo Pytheas número 2
+
+(5/10/2022): Afim de garantir mais personalização das ferramentas, decidimos por remover o fastq-dl e instalar suas ferramentas mãe, o SRAtoolkits e o ENABrowserTools. Durante a desinstalação do fastq-dl houveram algumas complicações, atualmente estamos usando a versão 3.0.0 do SRAtoolkits, porem para ativá-lo é necessário digitar "export PATH=$PATH:$PWD/sratoolkit.3.0.0-ubuntu64/bin" para adcionar os comandos as variáveis do PATH. Neste mesmo dia foi feito o download da ferramenta ENABrowserTools e falta testar para implementar, também falta descobrir como o ENA faz a consulta dos SRA.
