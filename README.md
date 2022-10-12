@@ -10,8 +10,8 @@ Adição de interfaces gráficas simples em que dá ao usuário a oportunidade d
 
 1 - Pelo Efetch podemos criar novas funções para fazer download de nucleotídeos,
     sequencias de DNA ou RNA e de proteínas e de genes. Embora nosso foco momen-
-    taneo seja FASTQ e SRA, podemos expandir para mais e mais fornecendo uma am
-    pla gama de variedades ao usúario.
+    taneo seja FASTQ e SRA, podemos expandir para mais e mais fornecendo uma ampla
+    gama de variedades ao usúario.
     
 2 - Ler mais a respeito do EnaBrowsertools, podemos garantir novas funções para
     o usuário, bem como ler mais a respeito do SRAtoolkits para adcionar funções
