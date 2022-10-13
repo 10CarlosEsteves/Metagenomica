@@ -1,6 +1,6 @@
 # Protótipo Pytheas número 3
 
-(12/10/2022): Atualmente estamos fazendo uso de 3 API's, pysradb, SRA Toolkit e o EnaBrowserTools. O problema de acesso as ferramentas do SRA e do ENA foram parcialmente resolvidas. Para o funcionamento correto dos dois programas é necessário que o usuário execute o pytheas.py dentro do diretório pois para utilizar tanto o Ena Browser quanto o SRA Tools, o pytheas.py acessa os dois por meio de caminhos, acessando seus respcetivos diretórios até achar seus executáveis.
+(12/10/2022): Atualmente estamos fazendo uso de 3 API's, pysradb, SRA Toolkit e o EnaBrowserTools. O problema de acesso as ferramentas do SRA e do ENA foram parcialmente resolvidos. Para o funcionamento correto dos dois programas é necessário que o usuário execute o pytheas.py dentro do diretório pois para utilizar tanto o Ena Browser quanto o SRA Tools, o pytheas.py acessa os dois por meio de caminhos, acessando seus respcetivos diretórios até achar seus executáveis.
 
 # As seguintes modificações foram feitas em relação a sua versão anterior:
 
